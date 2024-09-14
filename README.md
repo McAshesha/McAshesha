@@ -21,7 +21,7 @@ I'm currently honing my skills and striving to become better.
 
 ## 🌐 My Expertise
 
-- Java/Kotlin/Python/C Development
+- Java/Haskell/Python/C Development
 - Server Architecture
 - Plugin and Script Creation
 - Desktop and Mobile Application Modification

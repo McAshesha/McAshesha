@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an 18-year-old Java enthusiast with over 5 years of hands-on experience in the world of programming. My journey began with Java, and since then, I've crafted a diverse range of projects.
+I'm a Java enthusiast with over 5 years of hands-on experience in the world of programming. My journey began with Java, and since then, I've crafted a diverse range of projects.
 
 ## 💻 What I Do
 

@@ -11,14 +11,6 @@ I'm a Java enthusiast with over 5 years of hands-on experience in the world of p
 - **Desktop and Mobile Application Modification:** Experienced in modifying and updating both desktop and mobile client applications.
 - **Mobile Game Security Support:** Engaged in temporary roles providing support for mobile game security.
 
-## 🚀 Achievements
-
-I've successfully developed and maintained several paid public projects, contributing to different sectors within the tech landscape.
-
-## 🌱 Current Focus
-
-I'm currently honing my skills and striving to become better.
-
 ## 🌐 My Expertise
 
 - Java/Haskell/Python/C Development

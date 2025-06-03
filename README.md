@@ -36,3 +36,5 @@ AI student at Novosibirsk State University, hacking on side projects from Ar
   <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="180" />
 </div>
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ashesha)](https://wakatime.com)

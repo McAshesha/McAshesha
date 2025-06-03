@@ -1,35 +1,36 @@
-# Hi there, I'm Ashesha! 👋
+# Yo, I'm **Ashesha** 👋
 
-## About Me
+**Mid‑level Java engineer & AI undergrad who loves shipping code from silicon to cloud.**
 
-I'm a Java enthusiast with over 5 years of hands-on experience in the world of programming. My journey began with Java, and since then, I've crafted a diverse range of projects.
+---
 
-## 💻 What I Do
+### 🔧 Tech Toolkit
 
-- **Server Development:** Expertise in crafting robust and scalable server solutions.
-- **Plugin and Script Development:** Proficient in creating plugins and scripts to enhance various applications.
-- **Desktop and Mobile Application Modification:** Experienced in modifying and updating both desktop and mobile client applications.
-- **Mobile Game Security Support:** Engaged in temporary roles providing support for mobile game security.
+* **Java (main)** · C · Python · Haskell · Assembly
+* Backend & network services · desktop & mobile apps · reverse‑engineering
+* Digital hardware design on the AMBA bus + low‑level firmware
 
-## 🌐 My Expertise
+### 🚀 Highlights
 
-- Java/Haskell/Python/C Development
-- Server Architecture
-- Plugin and Script Creation
-- Desktop and Mobile Application Modification
-- Mobile Game Security
+* Prize‑winner @ **DeepCode Challenge**; finalist @ TechArena Siberian Challenge & Yandex Young Con
+* Public repos feature:
 
-## 🔗 Connect with Me
+  * AMBA‑ready RTL blocks
+  * Math‑heavy Haskell experiments
+  * High‑perf SOCKS5 proxy in pure C
+  * Reverse‑engineered Android & desktop mods
 
-- [Telegram](https://t.me/mcashesha) 
-- [Vk](https://vk.com/mcashesha)
-- [Email](mcashesha@mail.ru)
+### 🎓 Now
 
-## 📈 GitHub Stats
+AI student at Novosibirsk State University, hacking on side projects from Arch Linux + Hyprland ☕️🚀
+
+### 🤝 Connect
+
+[Telegram](https://t.me/mcashesha) • [VK](https://vk.com/mcashesha) • [Email](mailto:mcashesha@mail.ru)
+
+### 📈 GitHub Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="180" />
 </div>
-
-Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
-Happy coding! 🚀

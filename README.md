@@ -1,36 +1,44 @@
-# Yo, I'm **Ashesha** 👋
+# Hey, I'm **Ashesha** 👋
 
-**Mid‑level Java engineer & AI undergrad who loves shipping code from silicon to cloud.**
+## 🙋‍♂️ About
 
----
+Mid‑level Java engineer and AI undergrad at **Novosibirsk State University**.
+I build everything from Android apps to low‑level AMBA silicon, reverse other people’s binaries for fun, and live in a terminal on Arch Linux + Hyprland. Hackathons, side‑projects and open‑source keep me caffeinated.
+In general, I'm trying to find myself.
 
-### 🔧 Tech Toolkit
+## 🏆 Highlights
 
-* **Java (main)** · C · Python · Haskell · Assembly
-* Backend & network services · desktop & mobile apps · reverse‑engineering
-* Digital hardware design on the AMBA bus + low‑level firmware
+* 🥈 Prize‑winner — **DeepCode Challenge**
+* 🏅 Finalist — **TechArena Siberian Challenge** & **Yandex Young Con**
+* 🛠️ Open‑source hardware & security contributions on GitHub
 
-### 🚀 Highlights
+## 🛠️ Tech Stack
 
-* Prize‑winner @ **DeepCode Challenge** · finalist @ TechArena Siberian Challenge & Yandex Young Con
+| Domain                  | Tools & Frameworks                                                             |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| **Languages**           | Java · C · Python · Haskell · SQL · Assembly                                   |
+| **Backend**             | Spring Boot · Quarkus · REST · SOLID · JPA/Hibernate · PostgreSQL              |
+| **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                       |
+| **Desktop / Game**      | JavaFX · libGDX · ncurses                                                      |
+| **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                               |
+| **DevOps / Tooling**    | Git · GitHub Actions · Gradle · Maven · Bash · Make/CMake · Docker             |
+| **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                               |     
 
-### 💎 Featured Repos
+## 🌐 Contact
 
-* **dumbass-game** – Digital hardware design with industrial **AMBA** protocol (Assembler)
-* **fractal-generator** – Complex mathematical fractal explorations (Haskell)
-* **cli-proxy-server** – High‑throughput **SOCKS5** proxy (C/epoll)
-* **private-mafia** – Automated reverse‑engineering toolkit (Java/Kotlin)
-* ...and many other learning‑centric repos 👀
+<p align="left">
+  <a href="https://t.me/mcashesha" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:mcashesha@mail.ru" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email Badge"/>
+  </a>
+  <a href="https://vk.com/mcashesha" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK Badge"/>
+  </a>
+</p>
 
-### 🎓 Now
-
-AI student at Novosibirsk State University, hacking on side projects from Arch Linux + Hyprland ☕🚀
-
-### 🤝 Connect
-
-[Telegram](https://t.me/mcashesha) • [VK](https://vk.com/mcashesha) • [Email](mailto:mcashesha@mail.ru)
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="180" />

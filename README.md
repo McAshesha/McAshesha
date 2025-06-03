@@ -37,4 +37,7 @@ AI student at Novosibirsk State University, hacking on side projects from Ar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="180" />
 </div>
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Ashesha)](https://wakatime.com)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=McAshesha)]
+<img src=\"https://raw.githubusercontent.com/McAshesha/McAshesha/main/github-metrics.svg\" alt=\"metrics\"/>
+![snake gif](https://github.com/McAshesha/McAshesha/raw/output/github-contribution-grid-snake.gif)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=McAshesha)

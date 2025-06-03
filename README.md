@@ -27,12 +27,14 @@ In general, I'm trying to find myself.
 ## 🌐 Contact
 
 <p align="left">
-  <a href="https://t.me/mcashesha" target="_blank" style="margin-right:32x;">
+  <a href="https://t.me/mcashesha" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="Telegram" height="40" />
   </a>
-  <a href="mailto:mcashesha@mail.ru" target="_blank" style="margin-right:16px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:mcashesha@mail.ru" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/mcashesha" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK" height="40" />
   </a>

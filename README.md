@@ -27,7 +27,7 @@ In general, I'm trying to find myself.
 ## 🌐 Contact
 
 <p align="left">
-  <a href="https://t.me/mcashesha" target="_blank" style="margin-right:16px;">
+  <a href="https://t.me/mcashesha" target="_blank" style="margin-right:32x;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="Telegram" height="40" />
   </a>
   <a href="mailto:mcashesha@mail.ru" target="_blank" style="margin-right:16px;">

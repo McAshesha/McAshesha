@@ -1,8 +1,8 @@
-# Hey, I'm **Ashesha** 👋
+# Yo, I'm **Ashesha** 👋
 
 ## 🙋‍♂️ About
 
-Mid‑level Java engineer and AI undergrad at **Novosibirsk State University**.
+Mid‑level Java engineer and Artificial Intelligence undergrad at **Novosibirsk State University**.
 I build everything from Android apps to low‑level AMBA silicon, reverse other people’s binaries for fun, and live in a terminal on Arch Linux + Hyprland. Hackathons, side‑projects and open‑source keep me caffeinated.
 In general, I'm trying to find myself.
 

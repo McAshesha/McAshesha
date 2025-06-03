@@ -26,7 +26,7 @@ I'm a Java enthusiast with over 5 years of hands-on experience in the world of p
 - [Email](mcashesha@mail.ru)
 
 ## 📈 GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>

@@ -27,8 +27,8 @@ I'm a Java enthusiast with over 5 years of hands-on experience in the world of p
 
 ## 📈 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="200" alt="languages graph"  />
 </div>
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊

@@ -1,4 +1,18 @@
-# Yo, I'm **Ashesha** 👋
+<h1 align="center">
+  🚀 Yo, I'm **Ashesha** 👋
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%23336192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-%23BEBEBE.svg?style=for-the-badge"/>
+</p>
+
+
+---
 
 ## 🙋‍♂️ About me
 

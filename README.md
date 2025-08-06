@@ -31,7 +31,6 @@ In general, I'm trying to find myself.
 
 | Domain                  | Tools & Frameworks                                                                                |
 | ----------------------- | --------------------------------------------------------------------------------------------------|
-| **Languages**           | Java · C · Python · Haskell · SQL · Assembly                                                      |
 | **Backend**             | Spring Boot · Quarkus · Ignite · gRPC · REST · Kafka · JPA/Hibernate · PostgreSQL · Lombok        |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
 | **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |

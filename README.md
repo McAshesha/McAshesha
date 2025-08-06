@@ -28,15 +28,15 @@ In general, I'm trying to find myself.
 
 ## 🛠️ Tech Stack
 
-| Domain                  | Tools & Frameworks                                                             |
-| ----------------------- | ------------------------------------------------------------------------------ |
-| **Languages**           | Java · C · Python · Haskell · SQL · Assembly                                   |
-| **Backend**             | Spring Boot · Quarkus · REST · SOLID · JPA/Hibernate · PostgreSQL              |
-| **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                       |
-| **Desktop / Game**      | JavaFX · libGDX · ncurses                                                      |
-| **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                               |
-| **DevOps / Tooling**    | Git · GitHub Actions · Gradle · Maven · Bash · Make/CMake · Docker             |
-| **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                               |     
+| Domain                  | Tools & Frameworks                                                                                |
+| ----------------------- | --------------------------------------------------------------------------------------------------|
+| **Languages**           | Java · C · Python · Haskell · SQL · Assembly                                                      |
+| **Backend**             | Spring Boot · Quarkus · Ignite · gRPC · REST · Kafka · JPA/Hibernate · PostgreSQL · Lombok        |
+| **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
+| **Desktop / Game**      | JavaFX · libGDX · ncurses                                                                         |
+| **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                                                  |
+| **DevOps / Tooling**    | Git · GitHub Actions · Gradle · Maven · CMake · Docker · Kubernetes · Prometheus · JFR · JMH · k6 |
+| **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |     
 
 ## 🌐 Contact
 

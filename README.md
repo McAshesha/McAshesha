@@ -59,5 +59,5 @@ In general, I'm trying to find myself.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical" height="200" />
 </div>

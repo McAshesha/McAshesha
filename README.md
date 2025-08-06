@@ -23,7 +23,7 @@ In general, I'm trying to find myself.
 ## 🏆 Highlights
 
 * 🥈 Prize‑winner — **DeepCode Challenge**
-* 🏅 Finalist — **TechArena Siberian Challenge** & **Yandex Young Con**
+* 🏅 Finalist — **SberLab** & **TechArena Siberian Challenge** & **Yandex Young Con**
 * 🛠️ Open‑source hardware & security contributions on GitHub
 
 ## 🛠️ Tech Stack
@@ -33,7 +33,7 @@ In general, I'm trying to find myself.
 | **Languages**           | Java · C · Python · Haskell · SQL · Assembly                                                      |
 | **Backend**             | Spring Boot · Quarkus · Ignite · gRPC · REST · Kafka · JPA/Hibernate · PostgreSQL · Lombok        |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
-| **Desktop / Game**      | JavaFX · libGDX · ncurses                                                                         |
+| **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |
 | **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                                                  |
 | **DevOps / Tooling**    | Git · GitHub Actions · Gradle · Maven · CMake · Docker · Kubernetes · Prometheus · JFR · JMH · k6 |
 | **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |     

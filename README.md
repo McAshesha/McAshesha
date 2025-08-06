@@ -23,8 +23,9 @@ In general, I'm trying to find myself.
 ## 🏆 Highlights
 
 * 🥈 Prize‑winner — **DeepCode Challenge**
-* 🏅 Finalist — **SberLab** & **TechArena Siberian Challenge** & **Yandex Young Con**
+* 🏅 Finalist — **TechArena Siberian Challenge** & **Yandex Young Con**
 * 🛠️ Open‑source hardware & security contributions on GitHub
+* 🧪 Participant — **SberLab**
 
 ## 🛠️ Tech Stack
 

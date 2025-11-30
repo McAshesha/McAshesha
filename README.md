@@ -32,11 +32,11 @@ Currently a **SberTech intern** and **Sber scholarship recipient**. I’m active
 
 | Domain                  | Tools & Frameworks                                                                                |
 | ----------------------- | --------------------------------------------------------------------------------------------------|
-| **Backend**             | Spring · Ignite · Kafka · PostgreSQL · JPA/Hibernate · Lombok · Quarkus |
+| **Backend**             | Spring · Ignite · Kafka · PostgreSQL · JPA/Hibernate · Lombok · Quarkus                           |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
 | **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |
 | **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                                                  |
-| **DevOps / Tooling**    | Git · GitHub CI · Gradle/Maven · CMake · Docker · Kubernetes · Prometheus · k6 |
+| **DevOps / Tooling**    | GitHub CI · Gradle/Maven · JMH · CMake · Docker · Kubernetes · Prometheus · k6                    |
 | **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |
 
 ## 🌐 Contact

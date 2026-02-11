@@ -23,7 +23,7 @@ Currently a **SberTech intern** and **Sber scholarship recipient**. I’m active
 
 * 🔥 Open-source contributor — **Apache Ignite** (ANN indexing)
 * 🧪 **SberLab–NSU Summer School 2025** — completed (SberTech track)
-* 🥇 Winner - grant **FASIE “UMNIK”**
+* 🥇 Winner - grant **FASIE “UMNIK”** & **SberLab-NSU Hackaton**
 * 🥈 Prize-winner — **DeepCode Challenge**
 * 🎓 Finalist — **TechArena Siberian Challenge** & **Yandex Young Con**
 * 🤝 Volunteering & beyond: uni event volunteer; extra courses; sports ranks in powerlifting
@@ -32,11 +32,11 @@ Currently a **SberTech intern** and **Sber scholarship recipient**. I’m active
 
 | Domain                  | Tools & Frameworks                                                                                |
 | ----------------------- | --------------------------------------------------------------------------------------------------|
-| **Backend**             | Spring · Ignite · Kafka · PostgreSQL · JPA/Hibernate · Lombok · Quarkus                           |
+| **Backend**             | Spring · Quarkus · Ignite · Kafka · PostgreSQL · JPA/Hibernate                                    |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
 | **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |
 | **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                                                  |
-| **DevOps / Tooling**    | GitHub CI · Gradle/Maven · JMH · CMake · Docker · Kubernetes · Prometheus · k6                    |
+| **DevOps / Tooling**    | GitHub CI · JMH · Docker · Kubernetes · Prometheus · k6                                           |
 | **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |
 
 ## 🌐 Contact

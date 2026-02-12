@@ -58,10 +58,3 @@ Currently a **SberTech intern** and **Sber scholarship recipient**. I’m active
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Max_logo_2025.png" alt="MAX" height="40" />
   </a>
 </p>
-
-## 📈 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAshesha&show_icons=true&theme=radical" width="395" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAshesha&layout=compact&theme=radical"/>
-</div>

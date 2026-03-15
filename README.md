@@ -17,7 +17,7 @@
 ## 🙋‍♂️ About me
 
 Backend-leaning **Java** engineer and **2nd-year** Artificial Intelligence undergrad at **Novosibirsk State University (NSU)**.  
-Currently a **SberTech intern** and **Sber scholarship recipient**. I’m actively contributing to **Apache Ignite** — pushing **vector search**, concurrency & performance work. I still hack on Android and low-level stuff, but my main lane is Java backend.
+I am currently a **Java developer at SberBank**, worked at **SberTech**, and am a **Sber scholarship recipient**. I’m actively contributing to **Apache Ignite** — pushing **vector search**, concurrency & performance work. I still hack on Android and low-level stuff, but my main lane is Java backend.
 
 ## 🏆 Highlights
 

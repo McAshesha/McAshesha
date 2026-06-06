@@ -36,20 +36,17 @@
 
 ## 🌐 Contact
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/mcashesha" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="Telegram" height="40" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:mcashesha@mail.ru" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://vk.com/mcashesha" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" alt="VK" height="40" />
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://max.ru/u/f9LHodD0cOJOanQV87w2MuUpRpbL1LNxAZdta8INwhFdaIwMLOaorYZeHmA" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Max_logo_2025.png" alt="MAX" height="40" />
+    <img src="https://img.shields.io/badge/MAX-2787F5?style=for-the-badge"/>
   </a>
 </p>

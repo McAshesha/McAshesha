@@ -27,12 +27,12 @@
 
 | Domain                  | Tools & Frameworks                                                                                |
 | ----------------------- | --------------------------------------------------------------------------------------------------|
-| **Backend**             | Spring · Quarkus · Ignite · Kafka · PostgreSQL · JPA/Hibernate                                    |
+| **Backend**             | Spring · Quarkus · Ignite · Kafka · PostgreSQL · Redis · Hibernate                                |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
 | **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |
 | **Reverse Engineering** | ProGuard · IDA Pro · Frida · Jadx · ApkTool                                                       |
 | **DevOps / Tooling**    | GitHub CI/CD · Jenkins · JMH · Docker · Kubernetes · Prometheus · k6                              |
-| **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |
+| **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly · SIMD                                                           |
 
 ## 🌐 Contact
 

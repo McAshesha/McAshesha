@@ -30,8 +30,8 @@
 | **Backend**             | Spring · Quarkus · Ignite · Kafka · PostgreSQL · JPA/Hibernate                                    |
 | **Mobile**              | Android (Java/Kotlin) · Jetpack Compose · Android Studio                                          |
 | **Desktop / Game**      | JavaFX · SWT · libGDX · ncurses                                                                   |
-| **Reverse Engineering** | IDA Pro · Frida · Jadx · ApkTool                                                                  |
-| **DevOps / Tooling**    | GitHub CI · JMH · Docker · Kubernetes · Prometheus · k6                                           |
+| **Reverse Engineering** | ProGuard · IDA Pro · Frida · Jadx · ApkTool                                                       |
+| **DevOps / Tooling**    | GitHub CI/CD · Jenkins · JMH · Docker · Kubernetes · Prometheus · k6                              |
 | **Hardware / Embedded** | AMBA (AHB/AXI) design · assembly                                                                  |
 
 ## 🌐 Contact

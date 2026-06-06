@@ -36,7 +36,7 @@
 
 ## 🌐 Contact
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/mcashesha" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
